@@ -5,7 +5,7 @@
 
 ### About
 
-This repo holds my code as a sofware Engineering Student at [Power learn project](www.powerlearnproject.org) On my journey to become a __#1MillionDev4Africa__
+This repo holds my code as a sofware Engineering Student at [Power learn project](https://www.powerlearnproject.org/) On my journey to become a __#1MillionDev4Africa__
 
 ### Table of contents
 
